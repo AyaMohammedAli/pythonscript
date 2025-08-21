@@ -1,0 +1,4 @@
+git commend
+commend line argument 
+type annotation 
+profiling and optimization 
