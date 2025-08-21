@@ -1,4 +1,5 @@
-git commend
-commend line argument 
-type annotation 
-profiling and optimization 
+1 - git commend ✅
+2 - commend line argument ✅
+3  - type annotation 
+4 - profiling and optimization 
+5 - linter
